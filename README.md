@@ -3,6 +3,10 @@
 A real-time people detection pipeline built with YOLOv8 and OpenCV,
 simulating a restaurant operations camera analytics system.
 
+## Files
+- `demo.ipynb` — Basic YOLOv8 people detection pipeline
+- `demo_with_alerts.ipynb` — Full pipeline with event logging and crowding alerts
+
 ## What It Does
 - Reads a video stream (simulating an RTSP camera feed)
 - Detects and counts people per frame using YOLOv8n
