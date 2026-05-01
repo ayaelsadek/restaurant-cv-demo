@@ -10,7 +10,7 @@ simulating a restaurant operations camera analytics system.
 - Saves annotated output for review
 
 ## Demo Output
-![Sample Output](sample_output.png)
+![Sample Output](output_sample.png)
 
 ## Tech Stack
 - Python 3.x
